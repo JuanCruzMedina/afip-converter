@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Conversor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="a" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">23, 23</Value>
+    </Setting>
+    <Setting Name="ab" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Transparent</Value>
+    </Setting>
+    <Setting Name="abc" Type="System.Windows.Forms.ColorDepth" Scope="User">
+      <Value Profile="(Default)">Depth8Bit</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
